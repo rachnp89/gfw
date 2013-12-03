@@ -1,6 +1,6 @@
 # What is Global Forest Watch?
 
-[Global Forest Watch](http://www.wri.org/our-work/project/global-forest-watch) (GFW) is powerful, near-real-time forest monitoring system that unites satellite technology, data sharing, and human networks around the world to fight deforestation. 
+[Global Forest Watch](http://www.wri.org/our-work/project/global-forest-watch) (GFW) is powerful, near-real-time forest monitoring system that unites satellite technology, data sharing, and human networks around the world to fight deforestation.
 
 This repository contains the GFW web app.
 
@@ -8,11 +8,11 @@ This repository contains the GFW web app.
 
 # Developing
 
-The GFW web app rides on [Ruby on Rails](http://rubyonrails.org). 
+The GFW web app rides on [Ruby on Rails](http://rubyonrails.org).
 
 ## OS X Mavericks Setup
 
-First make sure you have [Xcode](https://developer.apple.com/xcode) and [Command Line Tools](https://developer.apple.com/downloads/index.action) installed. 
+First make sure you have [Xcode](https://developer.apple.com/xcode) and [Command Line Tools](https://developer.apple.com/downloads/index.action) installed.
 
 Next install [Homebrew](http://brew.sh), the OS X package manager:
 
