@@ -392,7 +392,7 @@ nav {
 
   padding: 45px 0 59px 0;
   background:url(backgrounds/bkg_header.png) repeat-x top center #FFFFFF;
-  height: 520px;
+  height: 387px;
 
   h3 {
     @extend .serif;
@@ -600,7 +600,7 @@ article.contact {
 .wall {
 
   $width: 523px - 60;
-  $height: 180px;
+  $height: 150px;
 
   height: $height;
 
